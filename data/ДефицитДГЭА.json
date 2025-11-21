@@ -1,7 +1,13 @@
 {
     "name": "Дефицит ДГЭА",
-    "headers": [],
-    "questions": [],
+    "headers": [
+    "№",
+    "Вопросы",
+    "Да",
+    "Нет"    
+  ],
+    "questions": [  
+    ],
     "results": []
   }
   
